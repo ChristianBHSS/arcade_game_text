@@ -12,3 +12,5 @@ Along the way to Saturn you will be able to stop at the Moon, Mars, the Asteroid
 At these stops you can trade with friendly travellers for extra resources
 
 On your journey you will encounter obstacles such as Phobos Deimos Pirates, Crossing the Asteroid Belt, the long distance between the Asteroid Belt and Jupiter, and finally the other countries racing from Europa to reach Saturn by any means possible
+
+You reach Saturn first or you fail along the way
